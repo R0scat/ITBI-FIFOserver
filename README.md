@@ -1,4 +1,4 @@
-# ITBI-FIFOserver
+# FIFOserver
 
 ## Introducere 
 
